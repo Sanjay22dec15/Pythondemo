@@ -1,3 +1,7 @@
 1.Print Hello
 2.List
 3.For Loop
+4.Aggration
+5.Additon
+6.logical
+7.tuple
