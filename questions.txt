@@ -5,3 +5,6 @@
 5.Additon
 6.logical
 7.tuple
+8.stored proc
+9.Triggers
+10.Functions
