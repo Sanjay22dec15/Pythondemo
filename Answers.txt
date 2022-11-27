@@ -2,3 +2,5 @@
 2.Madan
 3.C++
 4.Python
+5.Durga
+6.Deepu
