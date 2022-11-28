@@ -5,4 +5,8 @@
 5.Durga
 6.Deepu
 7.home loan
+<<<<<<< HEAD
 8.house rent
+=======
+8.bike loan
+>>>>>>> 191cd30c3ca420154842ed8fd7372d312489459b
